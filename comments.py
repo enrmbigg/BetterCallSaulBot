@@ -33,5 +33,9 @@ quotes = ['I caught my second wife screwing my stepdad. OK? It\'s a cruel world,
 		  'Better safe than sorry. That\'s my motto.',
 		  'Oh my God! You really are a chemistry teacher! Heh-heh...I was terrible at chemistry. I\'m more of a humanities guy.',
 		  'Yeah, you do seem to have a little shit creek action going...You know, FYI, you can buy a paddle',
-		  'All right, $16,000 laundered at 75 cents on the dollar, minus my fee, which is 17%, comes out to $9,960. Congratulations, you\'ve just left your family a second hand Subaru.'
+		  'All right, $16,000 laundered at 75 cents on the dollar, minus my fee, which is 17%, comes out to $9,960. Congratulations, you\'ve just left your family a second hand Subaru.',
+	  		'Better call Saul!',
+	  		'Chuck!',
+	  		'S\'all good man.',
+	  		'FYI, old people adore me.'
 		 ];
